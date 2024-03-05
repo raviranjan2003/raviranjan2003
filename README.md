@@ -2,7 +2,7 @@
 <h3 align="center">I am an intrigued, enthusiastic learner interested in Web Development.</h3>
 
 
-## About Me 🙋‍♀️
+## About Me 🙋🏻‍♂️
 - 🔭 I’m currently working on MERN stack development 
 - 🌱 I’m currently learning react js and devops
 - 👯 I’m looking to collaborate on any project in which I can learn and contribute 
