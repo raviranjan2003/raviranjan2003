@@ -15,8 +15,24 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi2003) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+</div> 	
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raviranjan2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raviranjan2003&theme=dark&hide_border=false)<br/>
